@@ -1,0 +1,7 @@
+{
+  "n_frames": 300,
+  "mean_ms_per_frame": 19.070079759999317,
+  "p95_ms_per_frame": 22.197600349932145,
+  "max_ms_per_frame": 98.89025299980858,
+  "achievable_fps": 52.43816557587569
+}
